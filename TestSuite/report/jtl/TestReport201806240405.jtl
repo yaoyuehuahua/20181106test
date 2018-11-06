@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="720" it="0" lt="660" ct="224" ts="1529827530583" s="true" lb="login" rc="200" rm="OK" tn="实战 1-1" dt="text" by="541" sby="362" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="206" it="0" lt="206" ct="0" ts="1529827531448" s="true" lb="userinfo" rc="200" rm="OK" tn="实战 1-1" dt="text" by="695" sby="300" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1949" it="0" lt="1949" ct="0" ts="1529827531656" s="true" lb="创建用户" rc="200" rm="OK" tn="实战 1-1" dt="text" by="435" sby="617" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="199" it="0" lt="199" ct="34" ts="1529827533606" s="true" lb="用户详情" rc="200" rm="OK" tn="实战 1-1" dt="text" by="699" sby="319" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="390" it="0" lt="390" ct="0" ts="1529827533807" s="true" lb="查询用户" rc="200" rm="OK" tn="实战 1-1" dt="text" by="541" sby="356" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="157" it="0" lt="157" ct="0" ts="1529827534199" s="true" lb="冻结" rc="200" rm="OK" tn="实战 1-1" dt="text" by="424" sby="446" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="102" it="0" lt="102" ct="0" ts="1529827534358" s="true" lb="验证用户已冻结" rc="200" rm="OK" tn="实战 1-1" dt="text" by="541" sby="356" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="161" it="0" lt="161" ct="0" ts="1529827534463" s="true" lb="激活用户" rc="200" rm="OK" tn="实战 1-1" dt="text" by="424" sby="446" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="88" it="0" lt="88" ct="0" ts="1529827534626" s="true" lb="验证用户已激活" rc="200" rm="OK" tn="实战 1-1" dt="text" by="541" sby="356" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="349" it="0" lt="348" ct="0" ts="1529827534716" s="true" lb="删除用户" rc="200" rm="OK" tn="实战 1-1" dt="text" by="424" sby="391" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="228" it="0" lt="228" ct="0" ts="1529827535066" s="true" lb="验证用户已删除" rc="200" rm="OK" tn="实战 1-1" dt="text" by="443" sby="356" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+</httpSample>
+
+</testResults>

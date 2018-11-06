@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="361" it="0" lt="361" ct="259" ts="1529812132837" s="true" lb="login" rc="200" rm="OK" tn="Cook实战 1-1" dt="text" by="685" sby="232" ng="1" na="1"/>
+<httpSample t="397" it="0" lt="397" ct="34" ts="1529812133220" s="true" lb="parks" rc="200" rm="OK" tn="Cook实战 1-1" dt="text" by="1739" sby="483" ng="1" na="1"/>
+
+</testResults>

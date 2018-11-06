@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="21034" it="0" lt="0" ct="21034" ts="1537930013529" s="false" lb="login" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="实战 1-1" dt="text" by="2227" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Response was null</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" it="0" lt="0" ct="21002" ts="1537930034609" s="false" lb="userinfo" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="实战 1-1" dt="text" by="2227" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Response was null</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21007" it="0" lt="0" ct="21007" ts="1537930055620" s="false" lb="创建用户" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="实战 1-1" dt="text" by="2227" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Response was null</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" it="0" lt="0" ct="21003" ts="1537930076637" s="false" lb="用户详情" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="实战 1-1" dt="text" by="2227" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Response was null</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21004" it="0" lt="0" ct="21004" ts="1537930097646" s="false" lb="查询用户" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="实战 1-1" dt="text" by="2227" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Response was null</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" it="0" lt="0" ct="21001" ts="1537930118651" s="false" lb="冻结" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="实战 1-1" dt="text" by="2227" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Response was null</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21004" it="0" lt="0" ct="21003" ts="1537930139655" s="false" lb="验证用户已冻结" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="实战 1-1" dt="text" by="2227" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Response was null</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;data&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21004" it="0" lt="0" ct="21004" ts="1537930160669" s="false" lb="激活用户" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="实战 1-1" dt="text" by="2227" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Response was null</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" it="0" lt="0" ct="21002" ts="1537930181678" s="false" lb="验证用户已激活" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="实战 1-1" dt="text" by="2227" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Response was null</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;data&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" it="0" lt="0" ct="21003" ts="1537930202689" s="false" lb="删除用户" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="实战 1-1" dt="text" by="2227" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Response was null</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" it="0" lt="0" ct="21003" ts="1537930223693" s="false" lb="验证用户已删除" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="实战 1-1" dt="text" by="2227" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>HttpStatusCode</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Response was null</failureMessage>
+  </assertionResult>
+  <assertionResult>
+    <name>jp@gc - JSON Path Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;data&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+</httpSample>
+
+</testResults>
